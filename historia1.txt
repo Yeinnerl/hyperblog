@@ -3,3 +3,5 @@ hoy hablaremos sobre la historia de yeinner
 yeinner tiene 30 años y esta aprendiendo programacion
 
 actualmente se encuentra estudiando git y github
+
+Yeinner se encuentra muy enfocado porque quiere un futuro confortable
